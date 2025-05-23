@@ -1,1 +1,1 @@
-# Developer-Jini
+# 개인학습용 프로젝트
