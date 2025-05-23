@@ -4,6 +4,5 @@ public class IntroduceMyself {
     public static void main(String[] args) { // 입력받고 메서드 호출하기
         // 소개문 생성 및 반환하기
 
-
     }
 }
